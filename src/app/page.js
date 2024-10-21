@@ -30,10 +30,10 @@ export default function Home() {
             Preferences: Favorite cuisines, dietary preferences, saved
             restaurant settings.
           </li>
-          <li>
+          {/* <li>
             Location Information: Geolocation data to recommend nearby
             restaurants or services.
-          </li>
+          </li> */}
         </ul>
 
         <h3>Non-Personal Information</h3>
